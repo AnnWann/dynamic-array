@@ -1,5 +1,5 @@
 # Dynamic Array Library for C
-# By Uaná Gasparim
+By Uaná Gasparim
 
 ## Functional requirements:
 
